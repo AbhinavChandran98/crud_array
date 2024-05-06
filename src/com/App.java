@@ -40,7 +40,7 @@ public class App {
 					break;
 			
 			case 6:
-					System.out.println("Thank You....");
+					System.exit(0);
 					break;
 				
 			default:
